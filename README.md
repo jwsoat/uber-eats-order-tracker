@@ -62,6 +62,6 @@ Custom Home Assistant integration to track live Uber Eats orders in real-time. F
 
 ---
 
-Developed with ❤️ by [zodyking](https://github.com/zodyking) & [Jwsoat](https://github.com/Jwsoat) [![GitHub Sponsor](https://shields.io)](https://github.com/sponsors/jwsoat)
+Developed with ❤️ by [zodyking](https://github.com/zodyking) & [Jwsoat](https://github.com/Jwsoat)
 
 
