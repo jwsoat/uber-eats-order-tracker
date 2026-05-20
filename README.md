@@ -55,11 +55,13 @@ Custom Home Assistant integration to track live Uber Eats orders in real-time. F
 7. Add via **Settings** → **Devices & Services** → **Add Integration** → **Uber Eats**
 
 ### Manual Installation
-1. Download the [latest release](https://github.com/zodyking/uber-eats-order-tracker/releases)
+1. Download the [latest release](https://github.com/jwsoat/uber-eats-order-tracker/releases)
 2. Extract `custom_components/uber_eats/` to your Home Assistant `/config/custom_components/` directory
 3. Restart Home Assistant
 4. Add via UI
 
 ---
 
-Developed with ❤️ by [zodyking](https://github.com/zodyking)
+Developed with ❤️ by [zodyking](https://github.com/zodyking) & [Jwsoat](https://github.com/Jwsoat) [![GitHub Sponsor](https://shields.io)](https://github.com/sponsors/jwsoat)
+
+
